@@ -5,7 +5,9 @@
 ================================================================
  
 READ THE WARNING AT THE BOTTOM OF THIS FILE BEFORE FLASHING.
- 
+
+  DOES NOT WORK WITH MY APRS APP
+  
 WHAT IT DOES
 A small patch to the official TIDRADIO TD-H9 firmware V1.0.38. It
 keeps the stock radio and menus and adds three things:
